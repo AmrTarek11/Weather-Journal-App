@@ -1,4 +1,4 @@
-# Weather-Journal App Project
+# Weather-Journal App Project [ egFWD - Front-End Professional Track - Project 2 ]
 
 ## Overview
 This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI.
@@ -18,4 +18,4 @@ If you are interested in testing your code as you go, you can use `tests.js` as 
 * Set up a function that updated UI dynamically.
 
 ### Final Output
-![Output]()
+![Output](https://github.com/AmrTarek11/Weather-Journal-App/blob/main/img/final_ouput.png)
