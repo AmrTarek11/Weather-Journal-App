@@ -1,0 +1,26 @@
+{
+  "name": "weather-journal-app",
+  "version": "1.0.0",
+  "description": "## Project 2 - Weather Journal App (egFWD - Front End Developer Udacity Nanodegree) #### Technology used: HTML, CSS, Javascript (Vanilla)",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmrTarek11/Weather-Journal-App.git"
+  },
+  "author": "amrtarek.1100@yahoo.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmrTarek11/Weather-Journal-App/issues"
+  },
+  "homepage": "https://github.com/AmrTarek11/Weather-Journal-App#readme"
+}
